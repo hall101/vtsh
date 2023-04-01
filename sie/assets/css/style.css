@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 20px;
+    line-height: 1.6;
+    color: #000000;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.title {
+    position: absolute;
+    z-index: 100;
+}
+
+#title {
+    color: #000000;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.1;
+    image.png
+}
+
+.title {
+    right: 800px;
+    bottom: 1200px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.intro{
+    width: 100%;
+    height: 100vh;
+
+    background: linear-gradient(220deg, #b8e994,
+#b71550)
+}
+
+.center {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.text_intro {
+    color: #000000;
+    font-size: 80px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.1;
+    image.png;
+}
+
+.text_intro {
+    position: absolute;
+    right: 800px;
+    bottom: 600px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.subtitle {
+    position: absolute;
+    right: 800px;
+    bottom: 20px;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.subtitle {
+    color: #000000;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.1;
+    image.png;
+}
+
+.section {
+    width: 100%;
+    height: 100vh;
+
+}
+
+.section_header {
+    margin: 0 auto 40px;
+}
+
+.section_title {
+    position:relative;
+    z-index: 100;
+}
+
+.section_title {
+    color: #000000;
+    font-size: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align:left;
+    line-height: 1.1;
+    margin-top:50px;
+}
+
+.vtsh {
+        width: 100%;
+        height: auto;
+}
+
+.qr {
+    position: absolute;
+    right: 250px;
+}
+
+.description {
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700px;
+    text-align:left;
+    line-height: 1.4;
+    max-width: 700px;
+}
+
+.description {
+    position: absolute;
+    right: 500px;
+}
+
+.description {
+    position: absolute;
+}
+
+.plan{
+    height: 10px; 
+    width: 20px;
+    position: absolute;
+    left: 1px;
+}
